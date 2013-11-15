@@ -1,0 +1,9 @@
+/.coverage
+/dist/
+/docs/.build/
+/*.egg-info
+*.pyc
+_scratch/
+Session.vim
+/setuptools-*
+/.tox
